@@ -6,4 +6,3 @@
 * [Step 4](./docs/Step_4.md): EC2 インスタンスに Django のアプリケーションをデプロイしてみよう
 * [Step 5](./docs/Step_5.md): ロードバランサーを利用してみよう
 
-hoge
